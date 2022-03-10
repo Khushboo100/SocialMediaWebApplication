@@ -1,0 +1,40 @@
+*{
+  margin:0;
+  padding:0;
+}
+.container{
+  display:flex;
+  background-image: url("bg.png");
+  background-position: 0%;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.left-container{
+  margin-left:1%;
+  background-color: rgb(169, 167, 196);
+  height:100%;
+  width:20%;
+  margin-top:10px;
+  
+}
+.news-container{
+  margin-left: 5%;
+}
+.news-container p{
+  color:white;
+}
+.news-container h2{
+  color:rgb(221, 94, 168);
+  margin-top:10px;
+}
+/* .left-container img{
+
+}
+.left-container h4{
+
+}
+.left-container p{
+
+} */
